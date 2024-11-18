@@ -1,0 +1,2 @@
+config SHIELD_SHAPETEST
+    def_bool $(shields_list_contains,shapetest)
