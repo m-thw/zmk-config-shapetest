@@ -3,4 +3,4 @@ if SHIELD_SHAPETEST
 config ZMK_KEYBOARD_NAME
     default "shapetest"
 
-endif1
+endif
